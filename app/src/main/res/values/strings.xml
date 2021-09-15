@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">Computer Abbreviations</string>
+
+    <string-array name="Abbreviations_name">
+
+   <item>  SONAR</item>
+     <item>  SARS</item>
+     <item>   NTP</item>
+     <item>  RQ</item>
+     <item>   SMS</item>
+     <item>  SNGPL</item>
+     <item>   SONAR</item>
+     <item>  SSGPL</item>
+     <item>  STD</item>
+     <item>  ATP</item>
+     <item>   RBC</item>
+     <item>   ECG</item>
+ <item>    PVC</item>
+     <item>    RAM</item>
+     <item>    CFC</item>
+     <item>    LASER</item>
+     <item>   RADAR</item>
+     <item>   MRCP</item>
+     <item>   MRCS</item>
+     <item>   MRI</item>
+     <item>   MS</item>
+     <item>   MSN</item>
+     <item>   AIDS</item>
+     <item>    ROM</item>
+     <item>   LAN</item>
+     <item>  WWW</item>
+     <item>   LPG</item>
+     <item>    TNT</item>
+ <item>   RNA</item>
+     <item>    CNG</item>
+     <item>   ICU</item>
+     <item>    IEA</item>
+     <item>  INSTRAW</item>
+ <item>  INTELSAC</item>
+     <item>    Intelsat</item>
+ <item>    DNA</item>
+     <item>   BCG</item>
+     <item>  STP</item>
+     <item> ATP</item>
+     <item> KWH</item>
+     <item> BTU</item>
+     <item> IRBM</item>
+     <item> LDL</item>
+     <item>  MAF</item>
+     <item>  HDL</item>
+     <item>  MCV</item>
+     <item> HTTP</item>
+     <item> IAEA</item>
+     <item> IBM</item>
+     <item> IC</item>
+     <item>  ICBM</item>
+     <item> JAXA</item>
+     <item>  KANUPP</item>
+     <item>  KAPCO</item>
+     <item> kHz</item>
+     <item>  KV</item>
+     <item>  kW</item>
+     <item>  MCAT</item>
+     <item>  MDS</item>
+     <item>  MNP</item>
+     <item>  MRBM</item>
+     <item>  MW</item>
+     <item>  NADRA</item>
+     <item>  NEPRA</item>
+     <item>  NM</item>
+     <item>  CTBT</item>
+     <item>  NPN</item>
+     <item> PNP</item>
+     <item> WAN</item>
+     <item>  CPU</item>
+     <item>   ESRO</item>
+     <item>  FAT</item>
+     <item>  FCPS</item>
+     <item> FM</item>
+     <item>  FMCT</item>
+     <item>   UHF</item>
+ <item>  LED</item>
+     <item>  LCD</item>
+     <item>  CMCC</item>
+     <item>  COM</item>
+     <item>   COMSAT</item>
+     <item>  COMSTECH</item>
+     <item>  CSIRO</item>
+     <item>  CMCC</item>
+     <item> EDB</item>
+     <item>  EEG</item>
+     <item>  ENERCON</item>
+     <item>  EPA</item>
+     <item>  EPD</item>
+     <item>   ESA</item>
+ <item>  CT-Scan</item>
+     <item>   DVD</item>
+     <item>  ECAT</item>
+     <item>  Cal</item>
+     <item> CD</item>
+     <item>  CD-ROM</item>
+     <item> CECP</item>
+     <item>  CHASNUPP</item>
+     <item> PEMRA</item>
+     <item>   PTA</item>
+ <item>  RADAR</item>
+     <item>   SALT</item>
+     <item>   SLV</item>
+     <item>  FRCS</item>
+     <item>  GHz</item>
+     <item>  GMT</item>
+ <item>  HIV</item>
+     <item>  HTML</item>
+ <item>   CTBT</item>
+     <item>  ISP</item>
+     <item> IT</item>
+     <item> ITB</item>
+     <item>  SUPARCO</item>
+     <item>  BIOS</item>
+     <item>  BDS</item>
+     <item>  BP</item>
+     <item>  CAA</item>
+     <item>  CABB</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+<string-array name="Child_name">
+
+ <item>  Sound Navigation and Ranging</item>
+ <item>  Severe Acute Respiratory Syndrome</item>
+ <item> Network Time Protocol/ Normal Temperature and Pressure</item>
+ <item> Respiratory Quotient</item>
+ <item> Short Message Service</item>
+ <item>  Sui Northern Gas Pipelines Limited</item>
+ <item>  Sound Navigation and Ranging</item>
+ <item>  Sui Southern Gas Pipeline Limited</item>
+ <item>  Subscriber’s Trunk Dialing</item>
+ <item>  Adenosine Tri Phosphate</item>
+ <item> Red Blood Cells/Corpuscles</item>
+ <item> Electro Cardio Gram</item>
+ <item> Poly vinyl Chloride</item>
+ <item> Random Access Memory</item>
+ <item>  Choro Fluor Carbon</item>
+ <item>  Light Amplification by Stimulated emission of Radiation</item>
+ <item>  Radio Detection and Ranging</item>
+ <item>  Member of Royal College of Physicians</item>
+ <item>  Member of Royal College of Surgeons</item>
+ <item>  Magnetic Resonance Imaging</item>
+ <item>  Medical Superintendent</item>
+ <item>  Microsoft Network</item>
+ <item>  Acquired Immune Deficiency Syndrome</item>
+ <item> Read Only Memory</item>
+ <item>  Local Area Network</item>
+ <item>  World Wide Web</item>
+ <item> Liquefied Petroleum Gas</item>
+ <item> Tri Nitro Toluene</item>
+ <item> Ribonucleic Acid</item>
+ <item>  Compressed Natural Gas</item>
+ <item> Intensive Care Unit</item>
+ <item>  International Energy Agency</item>
+ <item> International Research and Training Institute for The Advancement of Women</item>
+ <item>  International Telecommunications Satellite Consortium</item>
+ <item>  International Telecommunications Satellite Organization</item>
+ <item>  Deoxyribonucleic Acid</item>
+ <item> Bacillus Calmette Guerin</item>
+ <item>  Standard Temperature and Pressure/Shielded Twisted Pair/Sodium Tripolyphosphate/Spanning Tree Protocol</item>
+ <item> Adenosine Triphosphate</item>
+ <item> Kilo Watt Hour</item>
+ <item>  British thermal Unit</item>
+ <item>  Intermediate Range ballistic Missile</item>
+ <item>  Low Density Lipoprotein</item>
+ <item> Million Acre Feet</item>
+ <item> Hardware Description Language</item>
+ <item> Mean Corpuscular Volume</item>
+ <item> Hypertext Transfer Protocol</item>
+ <item> International Atomic Energy Agency (UN)</item>
+ <item> International Business Machine</item>
+ <item> Integrated Circuit/ Intelligence Corps</item>
+ <item>  Inter-Continental Ballistic Missile</item>
+ <item>  Japan Aerospace Exploration Agency</item>
+ <item>  Karachi Nuclear Power Plant</item>
+ <item>  Knot Ado Power Company</item>
+ <item>  Kilohertz</item>
+ <item>  Kilo Volt</item>
+ <item>  Kilowatt</item>
+ <item>  Medical Colleges Admission Test</item>
+ <item>  Master in Dental Surgery</item>
+ <item>  Mobile Number Probability</item>
+ <item>  Medium Range Ballistic Missile</item>
+ <item> Megawatt</item>
+ <item> National Database and Registration Authority</item>
+ <item> National Electric Power Regulatory Authority</item>
+ <item> Nautical Mile</item>
+ <item>  Comprehensive Test Ban Treaty</item>
+ <item>  Negative Positive Negative</item>
+ <item>  Purine Nucleoside Phosphorylase</item>
+ <item>  Wide Area Network</item>
+ <item>  Central Processing Unit</item>
+ <item>  European Space Research Organization</item>
+ <item>  File Allocation Table</item>
+ <item>  Fellow of The Royal College of Physicians and Surgeons</item>
+ <item>  Frequency Modulation</item>
+ <item>  Fissile Material Cut-Off Treaty</item>
+ <item>  Ultra-High Frequency</item>
+ <item>  Light emitting Diode</item>
+ <item>  Liquid Crystal Display</item>
+ <item>  China Mobile Communications Corporation</item>
+ <item>  Computer Aided Manufacturing</item>
+ <item>  Communications Satellite Corporation</item>
+ <item>  Council of Scientific and Technology Cooperation of Islamic Conference</item>
+ <item>  Commonwealth Scientific and Industrial Research Organization</item>
+ <item>  China Mobile Communications Corporation</item>
+ <item>  Engineering Development Board</item>
+ <item> Electroencephalogram</item>
+ <item>  Energy Conservation Centre</item>
+ <item> EPA: Energy Protection Agency</item>
+ <item> Energy Protection Department</item>
+ <item> European Space Agency</item>
+ <item>  Computerized Axial Tomography Scanning</item>
+ <item>  Dynamic Versatile Disc</item>
+ <item>  Engineering Colleges Admission Test</item>
+ <item>  Calorie</item>
+ <item> Compact Disc/ Civil Defence/ Community Development</item>
+ <item> Compact Disc Read-Only Memory</item>
+ <item> Cotton Export Corporation of Pakistan</item>
+ <item>  Chashma Nuclear Power Plant</item>
+ <item> Pakistan Electronic Media Regulatory Authority</item>
+ <item>  Pakistan Telecommunication Authority</item>
+ <item>  Radio Detection and Ranging</item>
+ <item> Strategic Arms Limitation Talks</item>
+ <item> Satellite Launch Vehicle</item>
+ <item> Fellow of The Royal College of Surgeons</item>
+ <item> Gigahertz</item>
+ <item>  Greenwich Mean Tim</item>
+ <item>  Human Immune Deficiency Virus</item>
+ <item>  Hypertext Mark-Up Language</item>
+ <item>  Comprehensive Test Ban Treaty</item>
+ <item>  Internet Service Provider</item>
+ <item>  Information Technology</item>
+ <item>  Information Technology Board</item>
+ <item>  Space and Upper Atmosphere Research Committee (Pakistan)</item>
+ <item>  Basic Input Output System</item>
+ <item> Bachelor of Dental Surgery/ Bomb Disposal Squad</item>
+ <item> Current Account</item>
+ <item> Civil Aviation Authority</item>
+ <item> Centre Of Agricultural Biochemistry and Biotechnology</item>
+
+
+</string-array>
+</resources>
